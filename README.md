@@ -2,7 +2,7 @@
 The aim of this project is just for me to practice CUDA programming while trying some fun ideas.
 
 ### :eyes: Preview
-![](graphic/vid/demo.gif)
+![](graphics/vid/demo.gif)
 
 ### Commands:
 | Move | Zoom in/out | Increase/Decrease max iteration | Reset | Hide/Show HUD |
