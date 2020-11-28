@@ -36,9 +36,6 @@
     </CudaCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Testo.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="README.md" />
   </ItemGroup>
 </Project>
