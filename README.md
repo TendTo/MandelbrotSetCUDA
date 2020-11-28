@@ -6,7 +6,7 @@ The aim of this project is just for me to practice CUDA programming while trying
 
 ### Commands:
 | Move | Zoom in/out | Increase/Decrease max iteration | Reset | Hide/Show HUD |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | L-click or WASD or Arrows| Mousewheel or +/- | E/Q | R | H |
 
 ## :wrench: Requirements
