@@ -56,7 +56,7 @@ void Mandelbrot_set::showHUD() {
 	text.setFont(font);
 	text.setString(str);
 	text.setCharacterSize(24);
-	text.setColor(sf::Color::Black);
+	text.setFillColor(sf::Color::Black);
 	text.setStyle(sf::Text::Bold);
 	(*window).draw(rect);
 	(*window).draw(text);
