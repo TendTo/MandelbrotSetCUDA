@@ -1,4 +1,4 @@
-#include "Mandelbrot_set.h"
+#include "Mandelbrot_set.hpp"
 
 using namespace ms;
 

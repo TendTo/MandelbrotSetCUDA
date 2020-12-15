@@ -153,8 +153,8 @@ namespace ms {
 		/// Adds to the current startX and startY the corriponding
 		/// modifier value and immediatly shows the updated result
 		/// 
-		/// /param modifierX  Value to add to startX
-		/// /param modifierY  Value to add to startY
+		/// \param modifierX  Value to add to startX
+		/// \param modifierY  Value to add to startY
 		///
 		////////////////////////////////////////////////////////////
 		void setPosition(double modifierX, double modfierY);
@@ -163,7 +163,7 @@ namespace ms {
 		/// Adds to the current startX the modifier value
 		/// and immediatly shows the updated result
 		/// 
-		/// /param modifier  Value to add to startX
+		/// \param modifier  Value to add to startX
 		///
 		////////////////////////////////////////////////////////////
 		void setStartX(double modifier);
@@ -172,7 +172,7 @@ namespace ms {
 		/// Adds to the current startY the modifier value
 		/// and immediatly shows the updated result
 		/// 
-		/// /param modifier  Value to add to startY
+		/// \param modifier  Value to add to startY
 		///
 		////////////////////////////////////////////////////////////
 		void setStartY(double modifier);
@@ -181,7 +181,7 @@ namespace ms {
 		/// Multiplies the current zoom by modifier value
 		/// and immediatly shows the updated result
 		/// 
-		/// /param modifier  Coefficient to apply to zoom
+		/// \param modifier  Coefficient to apply to zoom
 		///
 		////////////////////////////////////////////////////////////
 		void setZoom(double modifier);
@@ -190,7 +190,7 @@ namespace ms {
 		/// Adds the modifier value to the current maxIter 
 		/// and immediatly shows the updated result
 		/// 
-		/// /param modifier  Value to add to maxIter
+		/// \param modifier  Value to add to maxIter
 		///
 		////////////////////////////////////////////////////////////
 		void setIteration(int modifier);
